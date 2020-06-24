@@ -7,7 +7,7 @@ body {
    -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
    background: linear-gradient(to right, rgb(172, 18, 99), rgb(79, 216, 214)); 
-   background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/499416/demo-bg.jpg") no-repeat center center fixed; 
+   background: url(background.jpg) no-repeat center center fixed; 
    background-size: cover;
    height: 100%;
    width: 100%;
