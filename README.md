@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5dc55ccc-943c-40e9-b7d3-2c25774cf489/deploy-status)](https://app.netlify.com/sites/gracious-agnesi-7f2bec/deploys)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -67,4 +70,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5dc55ccc-943c-40e9-b7d3-2c25774cf489/deploy-status)](https://app.netlify.com/sites/gracious-agnesi-7f2bec/deploys)
